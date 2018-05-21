@@ -276,7 +276,7 @@ of squashed, 256 x 256 Training (75%) and Testing (25%) images.
 
 Give your Dataset a name,`dolphins-and-seahorses`, and click **Create**.
 
-![New Image Classification Dataset](images/new-image-classification-dataset.png?raw=true "New Image Classification Dataset")
+![New Image Classification Dataset](images/new-image-classification-dataset-create.png?raw=true "New Image Classification Dataset")
 
 This will create our dataset, which took only 4s on my laptop.  In the end I
 have 92 Training images (49 dolphin, 43 seahorse) in 2 categories, with 30
